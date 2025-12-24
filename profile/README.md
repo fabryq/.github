@@ -17,7 +17,23 @@ Fabryq turns conventions into gates.
 - **cli** — generator + enforcer (the “One Way” in practice)
 - **platform** — project/app scaffolding and bootstrap setup
 
-**Start here:** read the Core Guardrails, then use the CLI to scaffold your first app.
+## Start here
+Read the **Core Guardrails**, then use the **CLI** to scaffold your first app.
+
+## Why the “q” in Fabryq?
+The **q** is a daily reminder of what the standard path is optimized for.
+
+1. **Quality**  
+   Quality by default through enforced standards and automated checks.
+
+2. **Quick**  
+   Faster delivery by removing boilerplate and decision paralysis.
+
+3. **Queue**  
+   One track, one path — like a train on rails: no detours, no shortcuts.
+
+4. **Query**  
+   Clean boundaries around data access: resources and use-cases stay decoupled, cross-app access happens via contracts and IDs.
 
 ## Status
 Early stage. Hard rules.  
