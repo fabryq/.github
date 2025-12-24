@@ -5,7 +5,8 @@ Quality by default. Speed by design. **One way, enforced.**
 
 ## Why
 Symfony is flexible — and that flexibility often leads to drift: different structures, patterns, shortcuts, and growing technical debt.  
-Fabryq prevents drift with **enforced standards**: templates, rules, and automated checks that keep every backend consistent.
+Fabryq prevents drift with **enforced standards**: templates, rules, and automated checks that keep every backend consistent.  
+Fabryq turns conventions into gates.
 
 ## Core Guardrails
 - **One Way Only** — exactly one standard path for structure and modules.
@@ -17,6 +18,8 @@ Fabryq prevents drift with **enforced standards**: templates, rules, and automat
 - **core** — kernel, standards, guardrails (the foundation)
 - **cli** — generator + enforcer (the “One Way” in practice)
 - **platform** — project/app scaffolding and bootstrap setup
+
+**Start here:** read the Core Guardrails, then use the CLI to scaffold your first app.
 
 ## Status
 Early stage. Hard rules.  
