@@ -1,5 +1,3 @@
-# Fabryq
-
 **Fabryq provides an industrial-style standard path to build Symfony backends.**  
 Quality by default. Speed by design. **One way, enforced.**
 
