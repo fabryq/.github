@@ -1,11 +1,11 @@
 # Fabryq
 
-**Fabryq is the industrial standard way to build Symfony backends.**  
+**Fabryq provides an industrial-style standard path to build Symfony backends.**  
 Quality by default. Speed by design. **One way, enforced.**
 
 ## Why
 Symfony is flexible — and that flexibility often leads to drift: different structures, patterns, shortcuts, and growing technical debt.  
-Fabryq prevents drift with **enforced standards**: templates, rules, and automated checks that keep every backend consistent.  
+Fabryq reduces drift by enforcing a single standard path through **templates**, **rules**, and **automated checks**.  
 Fabryq turns conventions into gates.
 
 ## Core Guardrails
