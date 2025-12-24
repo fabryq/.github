@@ -1,3 +1,6 @@
+<img src="https://github.com/fabryq/.github/blob/main/fabryq-schriftzug-github.jpg" alt="drawing" width="400"/>
+
+
 **Fabryq provides an industrial-style standard path to build Symfony backends.**  
 Quality by default. Speed by design. **One way, enforced.**
 
